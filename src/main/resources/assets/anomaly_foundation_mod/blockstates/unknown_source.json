@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "anomaly_foundation_mod:block/unknown_source"
+    }
+  }
+}

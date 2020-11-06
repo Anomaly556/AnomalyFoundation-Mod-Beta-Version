@@ -1,0 +1,69 @@
+{
+  "_fv": 10,
+  "_type": "loottable",
+  "definition": {
+    "type": "Chest",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 21,
+        "minbonusrolls": 2,
+        "maxbonusrolls": 12,
+        "hasbonusrolls": true,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.RECORD_BLOCKS"
+            },
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.RECORD_MELLOHI"
+            },
+            "weight": 4
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.ENDER_PEARL"
+            },
+            "weight": 3
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.WATER_BUCKET"
+            },
+            "weight": 6
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.DIAMOND"
+            },
+            "weight": 4
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Items.COMPASS"
+            },
+            "weight": 7
+          },
+          {
+            "type": "item",
+            "item": {
+              "value": "Blocks.BLACK_BED"
+            },
+            "weight": 12
+          }
+        ]
+      }
+    ],
+    "name": "special",
+    "namespace": "mod"
+  }
+}

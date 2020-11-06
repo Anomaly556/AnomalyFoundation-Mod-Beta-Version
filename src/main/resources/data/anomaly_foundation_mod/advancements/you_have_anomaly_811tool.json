@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "anomaly_foundation_mod:aml_811stool"
+    },
+    "title": {
+      "translate": "advancements.you_have_anomaly_811tool.title"
+    },
+    "description": {
+      "translate": "advancements.you_have_anomaly_811tool.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "you_have_anomaly_811tool": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "anomaly_foundation_mod:aml_811stool"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3,
+    "recipes": [
+      "anomaly_foundation_mod:crafting_table"
+    ]
+  },
+  "parent": "minecraft:story/root"
+}

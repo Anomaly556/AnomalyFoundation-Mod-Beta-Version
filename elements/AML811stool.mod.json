@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aml811tool",
+    "customModelName": "Normal",
+    "name": "AML 8 1 1stool",
+    "specialInfo": [
+      "The Laser Begin!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Anoml"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 4.5,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 4,
+    "damageVsEntity": 4.3,
+    "usageCount": 154,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

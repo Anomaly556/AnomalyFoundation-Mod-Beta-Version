@@ -1,0 +1,22 @@
+{
+  "_fv": 10,
+  "_type": "fluid",
+  "definition": {
+    "name": "Blood",
+    "textureStill": "blod_sill",
+    "textureFlowing": "blod_flw",
+    "luminosity": 10,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "CUSTOM:Anoml"
+    },
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:AMLdis"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "anomaly_foundation_mod:block/am_ldis_portal_ew"
+    },
+    "axis=x": {
+      "model": "anomaly_foundation_mod:block/am_ldis_portal_ns"
+    }
+  }
+}

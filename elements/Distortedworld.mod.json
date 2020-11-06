@@ -1,0 +1,108 @@
+{
+  "_fv": 10,
+  "_type": "biome",
+  "definition": {
+    "groundBlock": {
+      "value": "CUSTOM:UnknownSource"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "generateLakes": true,
+    "treeType": 0,
+    "vanillaTreeType": "Big trees",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "treesPerChunk": 6,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 8,
+    "mushroomsPerChunk": 6,
+    "bigMushroomsChunk": 6,
+    "sandPathcesPerChunk": 3,
+    "gravelPatchesPerChunk": 7,
+    "reedsPerChunk": 5,
+    "cactiPerChunk": 7,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "plains"
+    },
+    "biomeDictionaryTypes": [
+      "PLAINS"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:Anomaly811"
+        },
+        "minGroup": 2,
+        "maxGroup": 12,
+        "weight": 2,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Anomaly082"
+        },
+        "minGroup": 1,
+        "maxGroup": 12,
+        "weight": 4,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Anomaly358"
+        },
+        "minGroup": 3,
+        "maxGroup": 12,
+        "weight": 5,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Anomaly817"
+        },
+        "minGroup": 2,
+        "maxGroup": 12,
+        "weight": 3,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Anomaly1001"
+        },
+        "minGroup": 1,
+        "maxGroup": 12,
+        "weight": 4,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Anomaly556"
+        },
+        "minGroup": 1,
+        "maxGroup": 12,
+        "weight": 2,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

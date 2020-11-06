@@ -1,0 +1,24 @@
+{
+  "group": "anomaly_foundation_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "anomaly_foundation_mod:spike"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "anomaly_foundation_mod:aml_811stool",
+    "count": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 64
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:honey_bottle",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cobweb",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cake",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot",
+          "weight": 6
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 34
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "anomaly_foundation_mod:aml_811stool",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "anomaly_foundation_mod:spike",
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

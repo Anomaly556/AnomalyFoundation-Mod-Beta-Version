@@ -1,0 +1,283 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Anomaly556",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anomaly_556"
+    },
+    {
+      "name": "Anomaly811",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anomaly_811"
+    },
+    {
+      "name": "Special",
+      "type": "loottable",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "special"
+    },
+    {
+      "name": "KillerPaperRightClickedInAir",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killer_paper_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "KillerPaper",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "killer_paper"
+    },
+    {
+      "name": "AML811stool",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aml_811stool"
+    },
+    {
+      "name": "Spike",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spike"
+    },
+    {
+      "name": "Aml811toolcreate",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aml_811toolcreate"
+    },
+    {
+      "name": "Aml117stool",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "aml_117stool"
+    },
+    {
+      "name": "YouHaveAnomaly811tool",
+      "type": "achievement",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "you_have_anomaly_811tool"
+    },
+    {
+      "name": "Anomaly082",
+      "type": "mob",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anomaly_082"
+    },
+    {
+      "name": "Anomaly358",
+      "type": "mob",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anomaly_358"
+    },
+    {
+      "name": "Anomaly817",
+      "type": "mob",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anomaly_817"
+    },
+    {
+      "name": "Anomaly1001",
+      "type": "mob",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anomaly_1001"
+    },
+    {
+      "name": "Slime",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slime"
+    },
+    {
+      "name": "Anoml",
+      "type": "tab",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "anoml"
+    },
+    {
+      "name": "DamageUp",
+      "type": "enchantment",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "damage_up"
+    },
+    {
+      "name": "SP",
+      "type": "loottable",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sp"
+    },
+    {
+      "name": "UnknownSource",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unknown_source"
+    },
+    {
+      "name": "AMLdis",
+      "type": "dimension",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "am_ldis"
+    },
+    {
+      "name": "Distortedworld",
+      "type": "biome",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "distortedworld"
+    },
+    {
+      "name": "UnknounSources",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unknoun_sources"
+    },
+    {
+      "name": "Blood",
+      "type": "fluid",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood"
+    },
+    {
+      "name": "Dmgup",
+      "type": "potion",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dmgup"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.anomaly_foundation_mod.anomaly_556": "Anomaly 5 5 6 Spawn Egg",
+      "item.anomaly_foundation_mod.aml_811stool": "AML 8 1 1stool",
+      "item.anomaly_foundation_mod.anomaly_358": "Anomaly358 Spawn Egg",
+      "item.anomaly_foundation_mod.anomaly_811": "Anomaly 8 1 1 Spawn Egg",
+      "item.anomaly_foundation_mod.anomaly_1001": "Anomaly1001 Spawn Egg",
+      "advancements.you_have_anomaly_811tool.title": "You Have Anomaly 811 tool",
+      "advancements.you_have_anomaly_811tool.descr": "Yeepy",
+      "item.anomaly_foundation_mod.slime": "Slime",
+      "item.anomaly_foundation_mod.spike": "Spike",
+      "block.anomaly_foundation_mod.unknown_source": "Unknown Source",
+      "item.anomaly_foundation_mod.aml_117stool": "Aml117 tool",
+      "fluid.blood": "Blood",
+      "item.anomaly_foundation_mod.blood_bucket": "Blood Bucket",
+      "item.minecraft.lingering_potion.effect.dmgup": "Lingering Dmgup",
+      "enchantment.anomaly_foundation_mod.damage_up": "Damage Up",
+      "item.minecraft.potion.effect.dmgup": "Dmgup",
+      "item.minecraft.tipped_arrow.effect.dmgup": "Arrow of Dmgup",
+      "entity.anomaly_foundation_mod.anomaly_817": "Anomaly817",
+      "entity.anomaly_foundation_mod.anomaly_1001": "Anomaly1001",
+      "item.anomaly_foundation_mod.killer_paper": "Killer Paper",
+      "item.anomaly_foundation_mod.am_ldis": "AM Ldis Portal Igniter",
+      "itemGroup.tabanoml": "AnomlalyFoundation",
+      "entity.anomaly_foundation_mod.anomaly_082": "Anomaly082",
+      "effect.dmgup": "Damage up",
+      "item.minecraft.splash_potion.effect.dmgup": "Splash Dmgup",
+      "item.anomaly_foundation_mod.anomaly_082": "Anomaly082 Spawn Egg",
+      "item.anomaly_foundation_mod.unknoun_sources": "Unknoun Sources",
+      "item.anomaly_foundation_mod.anomaly_817": "Anomaly817 Spawn Egg",
+      "entity.anomaly_foundation_mod.anomaly_358": "Anomaly358",
+      "entity.anomaly_foundation_mod.anomaly_556": "Anomaly 5 5 6",
+      "entity.anomaly_foundation_mod.anomaly_811": "Anomaly 8 1 1"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "anomaly_foundation_mod",
+    "modName": "Anomaly Foundation Mod",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.anomalyfoundationmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

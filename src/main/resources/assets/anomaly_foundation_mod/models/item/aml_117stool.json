@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "anomaly_foundation_mod:items/aml117tool"
+  }
+}

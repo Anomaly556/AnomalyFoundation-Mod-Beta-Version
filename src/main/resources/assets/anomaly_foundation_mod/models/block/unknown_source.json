@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "anomaly_foundation_mod:blocks/bwe",
+    "up": "anomaly_foundation_mod:blocks/block_unknown_s_top",
+    "north": "anomaly_foundation_mod:blocks/unknown_source",
+    "east": "anomaly_foundation_mod:blocks/unknown_source",
+    "south": "anomaly_foundation_mod:blocks/unknown_source",
+    "west": "anomaly_foundation_mod:blocks/unknown_source",
+    "particle": "anomaly_foundation_mod:blocks/bwe"
+  }
+}

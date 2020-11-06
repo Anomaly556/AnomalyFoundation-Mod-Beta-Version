@@ -1,0 +1,27 @@
+{
+  "_fv": 10,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "You Have Anomaly 811 tool",
+    "achievementDescription": "Yeepy",
+    "achievementIcon": {
+      "value": "CUSTOM:AML811stool"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "Aml811toolcreate"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 3,
+    "achievementType": "goal",
+    "parent": {
+      "value": "story/root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_consumed\" x=\"44\" y=\"126\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:AML811stool</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "aml117tool",
+    "customModelName": "Normal",
+    "name": "Aml117 tool",
+    "specialInfo": [
+      "Effective!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Anoml"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 3.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 90000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
